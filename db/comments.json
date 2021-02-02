@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "username": "user1",
+      "reaction": "1",
+      "comment": "That is the comment done by User 1",
+      "id": "24717301-a6ea-4331-9a81-602fb9fe2fd3"
+    },
+    {
+      "username": "user2",
+      "reaction": "2",
+      "comment": "That is the comment done by User 2",
+      "id": "dce8e142-414b-4853-b281-ba946e66b7c6"
+    },
+    {
+      "username": "user3",
+      "reaction": "1",
+      "comment": "That is the comment done by User 3",
+      "id": "21ebae42-cf71-46bc-aefb-e43dc36f0ba7"
+    }
+  ]
+}
